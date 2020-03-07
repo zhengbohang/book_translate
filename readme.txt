@@ -1,4 +1,2 @@
-Git is a distribute version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-现代VLSI器件基础翻译
+《现代VLSI器件基础》翻译
+仅供本人学习英语和微电子器件基础知识。
